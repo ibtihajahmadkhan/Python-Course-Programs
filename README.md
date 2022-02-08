@@ -7,3 +7,4 @@ This seriese of lectures are for everyone, from school students to PhD's. And it
 
 In case you have any question or problem, you can ask directly at [Facebook](facebook.com/groups/learnwithlala)
 
+![](/assets/FiverPythonTeacher_jpg.jpg)
