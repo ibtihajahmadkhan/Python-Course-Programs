@@ -1,0 +1,7 @@
+print("Hello World. This is my First Program. ") 
+print("I am Ibtihaj Ahmad (Lele). ") 
+print("I am printing a number ", 2)
+
+# Store a number
+mynumb = 2 
+print("I am printing my number ", mynumb)
