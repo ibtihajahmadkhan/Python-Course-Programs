@@ -5,4 +5,3 @@ These lectures are available at [YouTube](https://youtube.com/playlist?list=PL4-
 
 This seriese of lectures are for everyone, from school students to PhD's. And it's completely free, Easy to learn, and understand.
 
-![](/assets/FiverPythonTeacher_jpg.jpg)
